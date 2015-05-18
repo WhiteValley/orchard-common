@@ -1,8 +1,6 @@
 ﻿using System;
 using Orchard.Autoroute.Models;
 using Orchard.ContentManagement;
-using Orchard.DisplayManagement;
-using Orchard.Forms.Services;
 using Orchard.Localization;
 using Orchard.Projections.Descriptors.Filter;
 using Orchard.Projections.Services;
